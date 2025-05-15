@@ -50,7 +50,7 @@ function App() {
                 transition={{ delay: 0.2 }}
                 className="text-center mb-12"
               >
-                <h2 className="text-4xl font-bold mb-4 text-purple-900">Welcome to Yoga With Neeraj Sharma</h2>
+                <h2 className="text-4xl font-bold mb-4 text-purple-900">Welcome to a space where you matter.</h2>
                 <p className="text-xl text-gray-600">Transform Your Life Through Mindful Practice</p>
               </motion.div>
 
@@ -75,9 +75,15 @@ function App() {
                   transition={{ delay: 0.6 }}
                 >
                   <p className="text-lg leading-relaxed text-gray-700 mb-6">
-                    Welcome to my practice! I am a certified yoga instructor with over 5 years of experience.
-                    My journey in yoga began with a simple desire to find balance in life. I believe in making yoga accessible to everyone,
-                    regardless of their experience level or physical capabilities.
+                  Hi, I’m Neeraj Sharma, a licensed psychologist with a passion for helping people navigate life’s complexities with compassion, clarity, and care.
+
+With over [X] years of experience in mental health and therapy, I’ve worked with individuals from all walks of life — guiding them through anxiety, stress, trauma, relationship challenges, and self-discovery. My goal is simple: to offer a safe, non-judgmental space where you can explore your thoughts, reconnect with yourself, and grow at your own pace.
+
+Every individual is unique, and so is their journey. I combine evidence-based approaches like Cognitive Behavioral Therapy (CBT), Mindfulness, and Humanistic Therapy to tailor sessions that align with your needs and goals. Whether you're dealing with something specific or just feeling a little "off", we’ll work together to help you understand, heal, and thrive.
+
+This isn’t just therapy. It’s a friendly couch, a space where you are heard, supported, and empowered.
+
+Let’s begin your journey — together.
                   </p>
                   
                   <motion.div 
