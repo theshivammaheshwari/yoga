@@ -95,7 +95,7 @@ This isn’t just therapy — it’s your space to feel heard, supported, and un
                         animate={{ scale: 1 }}
                         transition={{ delay: 1, type: "spring" }}
                       >
-                        5+
+                        7+
                       </motion.h3>
                       <p className="text-sm text-gray-600">Years Experience</p>
                     </div>
@@ -108,7 +108,7 @@ This isn’t just therapy — it’s your space to feel heard, supported, and un
                       >
                         500+
                       </motion.h3>
-                      <p className="text-sm text-gray-600">Happy Students</p>
+                      <p className="text-sm text-gray-600">Clients Supported</p>
                     </div>
                     <div className="bg-purple-50 p-4 rounded-lg text-center">
                       <motion.h3 
@@ -117,9 +117,9 @@ This isn’t just therapy — it’s your space to feel heard, supported, and un
                         animate={{ scale: 1 }}
                         transition={{ delay: 1.4, type: "spring" }}
                       >
-                        10+
+                        1000+
                       </motion.h3>
-                      <p className="text-sm text-gray-600">Yoga Styles</p>
+                      <p className="text-sm text-gray-600">Therapy Sessions Delivered</p>
                     </div>
                     <div className="bg-purple-50 p-4 rounded-lg text-center">
                       <motion.h3 
@@ -128,9 +128,9 @@ This isn’t just therapy — it’s your space to feel heard, supported, and un
                         animate={{ scale: 1 }}
                         transition={{ delay: 1.6, type: "spring" }}
                       >
-                        20+
+                        10+
                       </motion.h3>
-                      <p className="text-sm text-gray-600">Weekly Classes</p>
+                      <p className="text-sm text-gray-600">Evidence-Based Approaches Used</p>
                     </div>
                   </motion.div>
                 </motion.div>
