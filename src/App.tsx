@@ -77,7 +77,7 @@ function App() {
                   <p className="text-lg leading-relaxed text-gray-700 mb-6">
                   Hi, I’m Neeraj Sharma, a licensed psychologist with a passion for helping people navigate life’s complexities with compassion, clarity, and care.
 
-With over [X] years of experience in mental health and therapy, I’ve worked with individuals from all walks of life — guiding them through anxiety, stress, trauma, relationship challenges, and self-discovery. My goal is simple: to offer a safe, non-judgmental space where you can explore your thoughts, reconnect with yourself, and grow at your own pace.
+With over 5 years of experience in mental health and therapy, I’ve worked with individuals from all walks of life — guiding them through anxiety, stress, trauma, relationship challenges, and self-discovery. My goal is simple: to offer a safe, non-judgmental space where you can explore your thoughts, reconnect with yourself, and grow at your own pace.
 
 Every individual is unique, and so is their journey. I combine evidence-based approaches like Cognitive Behavioral Therapy (CBT), Mindfulness, and Humanistic Therapy to tailor sessions that align with your needs and goals. Whether you're dealing with something specific or just feeling a little "off", we’ll work together to help you understand, heal, and thrive.
 
